@@ -3,7 +3,7 @@ Databases project
 Databases Coursework
 "Angel Kanchev" University of Ruse
 
-Erasmus+ Romanian students (Pitești)
+Erasmus+ Romanian student (Pitești)
 Marin Marian Puiu
 Year: 2
 Lecturer: Irena Valova
